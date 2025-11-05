@@ -1,0 +1,103 @@
+export const products = [
+  // Electronics
+  {
+    id: 1,
+    name: 'Wireless Headphones',
+    price: 79.99,
+    category: 'Electronics',
+    image: null,
+  },
+  {
+    id: 2,
+    name: 'Smart Watch',
+    price: 199.99,
+    category: 'Electronics',
+    image: null,
+  },
+  {
+    id: 3,
+    name: 'Laptop Stand',
+    price: 49.99,
+    category: 'Electronics',
+    image: null,
+  },
+  {
+    id: 4,
+    name: 'USB-C Cable',
+    price: 19.99,
+    category: 'Electronics',
+    image: null,
+  },
+  // Fashion
+  {
+    id: 5,
+    name: 'Cotton T-Shirt',
+    price: 24.99,
+    category: 'Fashion',
+    image: null,
+  },
+  {
+    id: 6,
+    name: 'Denim Jeans',
+    price: 59.99,
+    category: 'Fashion',
+    image: null,
+  },
+  {
+    id: 7,
+    name: 'Running Shoes',
+    price: 89.99,
+    category: 'Fashion',
+    image: null,
+  },
+  {
+    id: 8,
+    name: 'Winter Jacket',
+    price: 129.99,
+    category: 'Fashion',
+    image: null,
+  },
+  // Accessories
+  {
+    id: 9,
+    name: 'Leather Wallet',
+    price: 39.99,
+    category: 'Accessories',
+    image: null,
+  },
+  {
+    id: 10,
+    name: 'Sunglasses',
+    price: 29.99,
+    category: 'Accessories',
+    image: null,
+  },
+  {
+    id: 11,
+    name: 'Backpack',
+    price: 69.99,
+    category: 'Accessories',
+    image: null,
+  },
+  {
+    id: 12,
+    name: 'Watch',
+    price: 149.99,
+    category: 'Accessories',
+    image: null,
+  },
+  {
+    id: 13,
+    name: 'Phone Case',
+    price: 14.99,
+    category: 'Accessories',
+    image: null,
+  },
+  {
+    id: 14,
+    name: 'Belt',
+    price: 34.99,
+    category: 'Accessories',
+    image: null,
+  },
+];

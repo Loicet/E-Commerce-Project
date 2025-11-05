@@ -1,6 +1,6 @@
 import HeroSection from '../components/HeroSection';
 import ProductCard from '../components/ProductCard';
-import { products } from '../data/products';
+import { products } from '../pages/Products';
 
 function Home() {
   const featuredProducts = products.slice(0, 8);

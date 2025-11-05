@@ -1,10 +1,10 @@
 import ProductCard from '../components/ProductCard';
-import { products } from '../data/products';
+
 
 function Products() {
-  const electronics = products.filter((p) => p.category === 'Electronics');
-  const fashion = products.filter((p) => p.category === 'Fashion');
-  const accessories = products.filter((p) => p.category === 'Accessories');
+  const electronics = Products.filter((p) => p.category === 'Electronics');
+  const fashion = Products.filter((p) => p.category === 'Fashion');
+  const accessories = Products.filter((p) => p.category === 'Accessories');
 
   const handleAddToCart = (product) => {
     console.log(`Added ${product.name} to cart`);
